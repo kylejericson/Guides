@@ -4,29 +4,41 @@
 Download the Nightly build from here:  
 👉 [Nightly builds on GitHub](https://github.com/minecraft-linux/macos-builder/releases)
 
+---
+
 ### Step 2
 Open the launcher one time, then close it.
 
+---
+
 ### Step 3
 Copy this file to the following location:  
-📄 [profiles.ini](https://raw.githubusercontent.com/kylejericson/Guides/main/profiles.ini)
+📄 [profiles.ini (download link)](https://raw.githubusercontent.com/kylejericson/Guides/main/profiles.ini)
 
 **Destination:**  
 `/Users/{your-mac-username}/Library/Application Support/mcpelauncher/profiles`
 
+---
+
 ### Step 4
-Open the Launcher in dev mode and check these settings:  
-🖼️ [Dev Settings Screenshot](https://raw.githubusercontent.com/kylejericson/Guides/main/dev.png)  
-🖼️ [Profile Settings Screenshot](https://raw.githubusercontent.com/kylejericson/Guides/main/profile.png)
+Open the Launcher in dev mode and check these settings:
+
+**Dev Settings:**
+![Dev Settings Screenshot](https://raw.githubusercontent.com/kylejericson/Guides/main/dev.png)
+
+**Profile Settings:**
+![Profile Settings Screenshot](https://raw.githubusercontent.com/kylejericson/Guides/main/profile.png)
+
+---
 
 ### Step 5
 Launch Minecraft.
 
 ---
 
-**Note:** I’ve had the best results running the launcher in dev mode.
+**Note:** I’ve had the best results always running the launcher in dev mode.
 
-Simple script to do that:
+You can create a simple script to do that:
 
 ```bash
 #!/bin/bash
