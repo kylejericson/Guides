@@ -12,7 +12,11 @@ Open the launcher one time, then close it.
 ---
 
 ### Step 3
-Copy this file to the following location:  
+
+Download this file and change this to your username:
+Line 16: {kyle} replace with your mac username
+dataDir=/Users/kyle/Library/Application Support/mcpelauncher
+Copy this file to the following location: 
 📄 [profiles.ini (download link)](https://raw.githubusercontent.com/kylejericson/Guides/main/profiles.ini)
 
 **Destination:**  
