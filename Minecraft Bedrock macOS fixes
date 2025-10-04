@@ -1,0 +1,19 @@
+Minecraft Bedrock fixes for macOS
+
+Step 1. Download the Nightly build from here:
+https://github.com/minecraft-linux/macos-builder/releases
+
+Step 2. Open the launcher onetime then close it.
+Step 3. Copy this file to this location:
+profiles.ini
+/Users/{your-mac-username}/Library/Application Support/mcpelauncher/profiles
+Step 4. Open the Launcher in dev mode and check these settings:
+Step 5. Launch Minecraft.
+
+Note: I have had best results always running the lanucher in dev mode
+
+Simple script to do that:
+
+#!/bin/bash
+open -a /Applications/Minecraft\ Bedrock\ Launcher.app/ --args -d
+exit 0
