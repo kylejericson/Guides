@@ -5,9 +5,11 @@ Step 1. Download the Nightly build from here:
 
 Step 2. Open the launcher onetime then close it.
 Step 3. Copy this file to this location:
-profiles.ini
+https://github.com/kylejericson/Guides/blob/main/profiles.ini
 /Users/{your-mac-username}/Library/Application Support/mcpelauncher/profiles
-Step 4. Open the Launcher in dev mode and check these settings:
+Step 4. Open the Launcher in dev mode and check these settings in the launcher
+https://github.com/kylejericson/Guides/blob/main/dev.png
+https://github.com/kylejericson/Guides/blob/main/profile.png
 Step 5. Launch Minecraft.
 
 Note: I have had best results always running the lanucher in dev mode
