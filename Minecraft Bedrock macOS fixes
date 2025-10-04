@@ -1,7 +1,7 @@
 Minecraft Bedrock fixes for macOS
 
 Step 1. Download the Nightly build from here:
-https://github.com/minecraft-linux/macos-builder/releases
+[https://github.com/minecraft-linux/macos-builder/releases](https://github.com/minecraft-linux/macos-builder/releases)
 
 Step 2. Open the launcher onetime then close it.
 Step 3. Copy this file to this location:
